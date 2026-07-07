@@ -37,30 +37,6 @@ Tunneling: Ngrok (para exposição local)
 ![alt text](image.png)
 ![alt text](image-1.png)
 
-⚙️ Como Rodar Localmente
-
-Clone o repositório:
-
-git clone [https://github.com/Pedro-de-Abreu/king-shoes-ai.git](https://github.com/Pedro-de_Abreu/king-shoes-ai.git)
-cd king-shoes-ai
-
-
-Crie o ambiente virtual e instale as dependências:
-
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
-pip install -r requirements.txt
-
-
-Configure as Variáveis de Ambiente:
-Crie um arquivo .env na raiz e adicione:
-
-GEMINI_API_KEY=sua_chave_aqui
-
-
-Execute o Servidor:
-
-python main.py
 
 
 Acesse o Painel:
