@@ -39,7 +39,6 @@ Tunneling: Ngrok (para exposição local)
 
 
 
-Acesse o Painel:
-Abra http://localhost:8000/admin no navegador.
+
 
 Desenvolvido por Pedro de Abreu🚀
